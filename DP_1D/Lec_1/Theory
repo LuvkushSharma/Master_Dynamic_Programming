@@ -1,0 +1,10 @@
+
+
+Pre-requisite : Recursion
+
+---------------> Approaches to solve DP Problems :
+
+1. Top-down ---> Recursion + Memoization
+2. Bottom-Up ---> Tabulation
+
+3. After that Space Optimization
