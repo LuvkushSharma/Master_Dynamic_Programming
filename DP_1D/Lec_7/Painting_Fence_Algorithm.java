@@ -90,7 +90,7 @@ Sample Output 2 :
                |    X X                      |       X X X                            |     X X X X
        --------------------------------------------------------------------------------------------------------------
                |                             |  For n = 2 , main different colors     |
-               |                             |  used karke jo pattern bana thaa unme  |
+               |                             |  use karke jo pattern bana thaa unme  |
          Same  |  RR                         |  last ke do colors same kardo. i.e.    |  ans1 = 18
          Color |  GG                         |  RGG , RBB , GRR , GBB , BRR and BGG   |
          Used  |  BB                         |                                        |
