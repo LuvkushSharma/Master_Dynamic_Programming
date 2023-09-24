@@ -58,7 +58,7 @@ In test case 2, For the array elements = {0, 1, 2, 3}, total 9 arrangements are 
 
 
             0 main kaha par rakh sakta huun : --> I can place 0 from idx = 1 to idx = nth.
-            So, we hamaare pass (n-1) blocks hain to place '0'.
+            So, hamaare pass (n-1) blocks hain to place '0'.
 
             (n-1) * [Solution of sub-problem]
 
