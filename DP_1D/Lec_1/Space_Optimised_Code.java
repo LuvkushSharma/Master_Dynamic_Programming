@@ -16,6 +16,18 @@ public class Space_Optimised_Code {
 
     }
 
+    /*
+    
+        To know whether the space optimisation is applied or not !
+        
+        dp[i] is dependent on dp[i-1] and dp[i-2]  i.e.
+        dp[i] is dependent on prev1 and prev2 elements.
+        
+        i.e. replace dp[i-1] with prev1 
+        and replace dp[i-2] with prev2
+    
+     */
+
     public static int fibo (int n) {
 
         // Step-1 :
