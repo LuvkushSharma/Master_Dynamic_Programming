@@ -168,6 +168,8 @@ Sample Output 2 :
 
       solve (n) depends on solve (n-2) * (k-1)  ---------> Ye toh same waale ke liye hua now , talk about different colors also.
 
+      (n-2) means out of 'n' posts we had colored 2 posts and , now (n-2) posts are remaining to be painted.
+
 
       Let's say , n = 3
       X  X  X
