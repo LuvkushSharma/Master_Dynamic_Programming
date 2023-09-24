@@ -136,7 +136,7 @@ public class Combination_Sum_IV {
 
     // ###################### Memoization ###################
     /*
-         Hma ekaise patah kii 1D DP hain yaa fir 2D.
+         Hame kaise patah kii 1D DP hain yaa fir 2D.
          Dhyaan se dekho recursive call main konsa parameter change ho raha hain and kitne ho rahe hain.
          Bro, 2 parameters hain and isme se sirf 1 hee ho raha hain i.e. tar.
          i.e. 1D DP
