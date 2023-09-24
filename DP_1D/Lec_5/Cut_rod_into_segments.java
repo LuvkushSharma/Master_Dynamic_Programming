@@ -93,7 +93,7 @@ In the second case, cut it into 8 parts of length 1.
 
 
              n-x matlab ----> (n-x) length kii rod ke liye kitne number of segments use kar sakte ho.
-             n-y : lenght kii rod ke liye kitne number of segments aa rahe hain.
+             n-y : length kii rod ke liye kitne number of segments aa rahe hain.
 
              So, ham (n-x) par tabhi aaye hongye jab hamne n main se 'x' segment tod diya hoga. i.e. 1 + solve ()
 
