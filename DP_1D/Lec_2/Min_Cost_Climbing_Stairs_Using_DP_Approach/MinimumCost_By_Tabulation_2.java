@@ -45,6 +45,8 @@ public class MinimumCost_By_Tabulation_2 {
             dp[i] = cost[i] + Math.min (dp[i-1] , dp[i-2]);
         }
 
+        // Agar samaj nhi aaye kii hame tabulation main return main kya likhna hain
+        // Then , see the recursive + memoization function parameters. And put those parameters in the dp.
         return Math.min (dp[n-1] , dp[n-2]);
     }
 }
