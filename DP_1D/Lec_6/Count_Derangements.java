@@ -247,6 +247,12 @@ public class Count_Derangements {
 
     // ######################### Tabulation #######################
 
+    /*
+         In top-down : 'n' goes from n to 1
+        So, in bottom-up : 'n' goes from 1 to n
+    
+     */        
+
     // TC : O(N)
     // SC : O(N)
     public static int solve_tabu (int n) {
